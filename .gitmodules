@@ -1,12 +1,12 @@
 [submodule ".config/suckless/funwm"]
 	path = .config/suckless/funwm
-	url = git@github.com:mujalab/funwm.git
+	url = git@github.com:mujaxso/funwm.git
 [submodule ".config/suckless/funstat"]
 	path = .config/suckless/funstat
-	url = git@github.com:mujalab/funstat.git
+	url = git@github.com:mujaxso/funstat.git
 [submodule ".config/nvim"]
 	path = .config/nvim
-	url = git@github.com:mujalab/funvim.git
+	url = git@github.com:mujaxso/funvim.git
 [submodule ".emacs.d"]
-	path = .emacs.d
-	url = git@github.com:mujalab/funmacs.git
+	path = .config/emacs
+	url = git@github.com:mujaxso/funmacs.git
