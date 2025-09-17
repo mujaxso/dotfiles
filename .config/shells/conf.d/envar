@@ -6,6 +6,9 @@
 unset XDG_RUNTIME_DIR
 export XDG_RUNTIME_DIR=$(mktemp -d /tmp/$(id -u)-runtime-dir.XXX)
 
+# wayland session 
+export XDG_SESSION_TYPE=wayland
+
 # random color script
 #colorscript random
 
